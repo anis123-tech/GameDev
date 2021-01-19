@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/challang22.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Challenge 2/Challenge 2.unity
+  isLoaded: 1
+  isActive: 0
